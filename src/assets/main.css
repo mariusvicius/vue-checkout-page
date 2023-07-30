@@ -19,6 +19,12 @@ body {
   min-height: 100vh;
 }
 
+.slider-bg {
+  background-image: url(img/slider-bg.svg);
+  background-size: cover;
+  min-height: 100vh;
+}
+
 /* #app {
   max-width: 1280px;
   margin: 0 auto;

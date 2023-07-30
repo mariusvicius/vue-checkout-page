@@ -1,7 +1,13 @@
 <script setup>
-
+  import { RouterView } from 'vue-router'
 </script>
 
 <template>
-  <div class="text-center w-full">Test</div>
+  
+  <section class="flex w-full">
+    
+    <RouterView />
+
+  </section>
+
 </template>
